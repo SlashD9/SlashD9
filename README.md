@@ -3,10 +3,11 @@
 ### Please Stay tuned for more to come
 
 ## What I'm Working on
-- I’m currently building my Portfolio Page
+- I’m currently building my Website
+- https://techdaly.netlify.app
 
 ## What I'm Learning
-- I’m currently learning Angular 10 
+- Angular 10 
 - JavaScript deep learn
 - Firebase
 
